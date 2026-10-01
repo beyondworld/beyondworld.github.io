@@ -3,3 +3,6 @@
 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 이것은 j188에 있는 README.md 입니다.
+다시 수정합니다.
+수정이유: 재연습 합니다
+
